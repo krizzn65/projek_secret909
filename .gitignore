@@ -1,0 +1,4 @@
+__pycache__/
+.env
+*.token
+node_modules/
